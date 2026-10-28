@@ -1,0 +1,14 @@
+{
+  "dataset": "GSE135893",
+  "comparison": "IPF vs Control only",
+  "cells": 89326,
+  "IPF_donors": 12,
+  "Control_donors": 10,
+  "genes_downloaded": 124,
+  "ferro_aging_genes_used": 95,
+  "notes": [
+    "Author cell-type annotations were retained.",
+    "Gene comparisons use donor-level pseudobulk summaries.",
+    "Targeted score is provisional until a full-transcriptome AUCell/UCell score is run."
+  ]
+}

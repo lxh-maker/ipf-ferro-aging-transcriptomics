@@ -1,0 +1,34 @@
+module,gene,detected
+Resident/alveolar,FABP4,True
+Resident/alveolar,INHBA,True
+Resident/alveolar,MARCO,True
+Resident/alveolar,MCEMP1,True
+Resident/alveolar,LPL,True
+Resident/alveolar,MRC1,True
+Resident/alveolar,C1QA,True
+Resident/alveolar,C1QB,True
+Resident/alveolar,C1QC,True
+S100A8 transitional,S100A8,True
+S100A8 transitional,S100A9,True
+S100A8 transitional,FCN1,True
+S100A8 transitional,VCAN,True
+S100A8 transitional,CTSS,True
+S100A8 transitional,TIMP1,True
+S100A8 transitional,LYZ,True
+Lysosome/lipid/iron,GPNMB,True
+Lysosome/lipid/iron,LIPA,True
+Lysosome/lipid/iron,FTL,True
+Lysosome/lipid/iron,CTSD,True
+Lysosome/lipid/iron,ASAH1,True
+Lysosome/lipid/iron,HEXB,True
+Lysosome/lipid/iron,LAMP1,True
+Lysosome/lipid/iron,CYP27A1,True
+SPP1 effector,SPP1,True
+SPP1 effector,MMP9,True
+SPP1 effector,LGMN,True
+SPP1 effector,PLA2G7,True
+SPP1 effector,CHIT1,True
+SPP1 effector,APOC1,True
+SPP1 effector,TREM2,True
+SPP1 effector,CD9,True
+SPP1 effector,CHI3L1,True

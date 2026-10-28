@@ -1,0 +1,12 @@
+{
+  "dataset": "GSE136831",
+  "n_IPF_myeloid_cells_all": 94679,
+  "n_balanced_projection_cells": 10302,
+  "n_IPF_patients": 32,
+  "friedman_state_position_statistic": 96.0,
+  "friedman_state_position_p": 1.1256303663983578e-20,
+  "n_patients_complete_order": 0,
+  "n_patients_with_all_positions": 32,
+  "root_cell": "021I_GATCGCGTCTACCTGC",
+  "interpretation": "Independent fixed-module state projection, not lineage tracing."
+}

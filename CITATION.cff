@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or these processed results, please cite the associated manuscript."
+title: "Ferro-aging-informed transcriptomic analysis of idiopathic pulmonary fibrosis"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xiaohan
+  - family-names: Zhang
+    given-names: Dong
+repository-code: "https://github.com/lxh-maker/ipf-ferro-aging-transcriptomics"
+date-released: 2026-10-28
+

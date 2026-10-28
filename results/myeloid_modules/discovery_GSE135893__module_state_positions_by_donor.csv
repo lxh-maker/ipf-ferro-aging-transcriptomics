@@ -1,0 +1,49 @@
+donor,module,n_top_quartile_cells,median_top_quartile_pseudotime
+TILD001,Resident/alveolar,25,0.6759356
+TILD001,S100A8 transitional,25,0.6921831
+TILD001,Lysosome/lipid/iron,25,0.70637953
+TILD001,SPP1 effector,25,0.7100338
+TILD006,Resident/alveolar,25,0.12367073
+TILD006,S100A8 transitional,25,0.716324
+TILD006,Lysosome/lipid/iron,25,0.6822777
+TILD006,SPP1 effector,25,0.69459563
+TILD010,Resident/alveolar,25,0.67237526
+TILD010,S100A8 transitional,25,0.7223091
+TILD010,Lysosome/lipid/iron,25,0.7197597
+TILD010,SPP1 effector,25,0.7223091
+TILD015,Resident/alveolar,25,0.6671873
+TILD015,S100A8 transitional,25,0.72138524
+TILD015,Lysosome/lipid/iron,25,0.69059753
+TILD015,SPP1 effector,25,0.70401233
+TILD028,Resident/alveolar,25,0.56727797
+TILD028,S100A8 transitional,25,0.7579786
+TILD028,Lysosome/lipid/iron,25,0.7065381
+TILD028,SPP1 effector,25,0.71954554
+VUILD53,Resident/alveolar,25,0.33108398
+VUILD53,S100A8 transitional,25,0.75178736
+VUILD53,Lysosome/lipid/iron,25,0.7261687
+VUILD53,SPP1 effector,25,0.734365
+VUILD59,Resident/alveolar,25,0.097211
+VUILD59,S100A8 transitional,25,0.54400843
+VUILD59,Lysosome/lipid/iron,25,0.11184393
+VUILD59,SPP1 effector,25,0.09264952
+VUILD60,Resident/alveolar,25,0.22506993
+VUILD60,S100A8 transitional,25,0.6485746
+VUILD60,Lysosome/lipid/iron,25,0.71827453
+VUILD60,SPP1 effector,25,0.73032665
+VUILD61,Resident/alveolar,25,0.6646727
+VUILD61,S100A8 transitional,25,0.71207684
+VUILD61,Lysosome/lipid/iron,25,0.70764756
+VUILD61,SPP1 effector,25,0.72569054
+VUILD63,Resident/alveolar,25,0.3005962
+VUILD63,S100A8 transitional,25,0.5758033
+VUILD63,Lysosome/lipid/iron,25,0.71366763
+VUILD63,SPP1 effector,25,0.7126562
+VUILD64,Resident/alveolar,25,0.06262863
+VUILD64,S100A8 transitional,25,0.6031292
+VUILD64,Lysosome/lipid/iron,25,0.639705
+VUILD64,SPP1 effector,25,0.710438
+VUILD65,Resident/alveolar,25,0.2149808
+VUILD65,S100A8 transitional,25,0.6260713
+VUILD65,Lysosome/lipid/iron,25,0.6940087
+VUILD65,SPP1 effector,25,0.6947033

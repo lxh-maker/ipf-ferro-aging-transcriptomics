@@ -1,0 +1,78 @@
+{
+  "dataset": "GSE135893",
+  "n_cells": 1200,
+  "n_genes": 982,
+  "n_donors": 12,
+  "cells_per_donor": {
+    "TILD001": 100,
+    "TILD006": 100,
+    "TILD010": 100,
+    "TILD015": 100,
+    "TILD028": 100,
+    "VUILD53": 100,
+    "VUILD59": 100,
+    "VUILD60": 100,
+    "VUILD61": 100,
+    "VUILD63": 100,
+    "VUILD64": 100,
+    "VUILD65": 100
+  },
+  "root_cell": "ILD59-1_GGAATAATCTACTTAC",
+  "root_donor": "VUILD59",
+  "modules": {
+    "Resident/alveolar": [
+      "FABP4",
+      "INHBA",
+      "MARCO",
+      "MCEMP1",
+      "LPL",
+      "MRC1",
+      "C1QA",
+      "C1QB",
+      "C1QC"
+    ],
+    "S100A8 transitional": [
+      "S100A8",
+      "S100A9",
+      "FCN1",
+      "VCAN",
+      "CTSS",
+      "TIMP1",
+      "LYZ"
+    ],
+    "Lysosome/lipid/iron": [
+      "GPNMB",
+      "LIPA",
+      "FTL",
+      "CTSD",
+      "ASAH1",
+      "HEXB",
+      "LAMP1",
+      "CYP27A1"
+    ],
+    "SPP1 effector": [
+      "SPP1",
+      "MMP9",
+      "LGMN",
+      "PLA2G7",
+      "CHIT1",
+      "APOC1",
+      "TREM2",
+      "CD9",
+      "CHI3L1"
+    ]
+  },
+  "ordering_summary": {
+    "friedman_statistic": 21.302520751953125,
+    "friedman_p": 9.109314123634249e-05,
+    "n_donors_complete_order": 4,
+    "n_donors_total": 12,
+    "complete_order_donors": [
+      "TILD001",
+      "VUILD60",
+      "VUILD64",
+      "VUILD65"
+    ]
+  },
+  "interpretation": "Computational macrophage state ordering; not lineage tracing."
+}

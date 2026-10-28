@@ -1,0 +1,20 @@
+# Raw and intermediate data
+data/
+*.h5ad
+*.rds
+*.RData
+*.mtx
+*.npz
+*.bin
+
+# Compiled and cache files
+*.exe
+*.pyc
+__pycache__/
+.Rhistory
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

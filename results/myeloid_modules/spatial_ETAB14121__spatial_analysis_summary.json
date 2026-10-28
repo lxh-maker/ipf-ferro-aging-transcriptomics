@@ -1,0 +1,50 @@
+{
+  "dataset": "E-MTAB-14121",
+  "n_sections": 25,
+  "n_IPF_donors": 4,
+  "n_control_donors": 4,
+  "modules_fixed_before_spatial_analysis": {
+    "Resident/alveolar": [
+      "FABP4",
+      "INHBA",
+      "MARCO",
+      "MCEMP1",
+      "LPL",
+      "MRC1",
+      "C1QA",
+      "C1QB",
+      "C1QC"
+    ],
+    "S100A8 transitional": [
+      "S100A8",
+      "S100A9",
+      "FCN1",
+      "VCAN",
+      "CTSS",
+      "TIMP1",
+      "LYZ"
+    ],
+    "Lysosome/lipid/iron": [
+      "GPNMB",
+      "LIPA",
+      "FTL",
+      "CTSD",
+      "ASAH1",
+      "HEXB",
+      "LAMP1",
+      "CYP27A1"
+    ],
+    "SPP1 effector": [
+      "SPP1",
+      "MMP9",
+      "LGMN",
+      "PLA2G7",
+      "CHIT1",
+      "APOC1",
+      "TREM2",
+      "CD9",
+      "CHI3L1"
+    ]
+  },
+  "interpretation": "Spatial association and deconvolution; no lineage or ligand-target causality."
+}

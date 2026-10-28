@@ -1,0 +1,6 @@
+Samples: 50 control, 119 IPF/UIP
+Mapped genes: 8502
+DEGs (FDR<0.05, |logFC|>0.5): 934 up, 635 down
+Contrast: IPF/UIP - control
+Probe selection: maximum across-cohort IQR without outcome labels
+V-score: (mean_IPF - mean_control) / sqrt(var_IPF + var_control)

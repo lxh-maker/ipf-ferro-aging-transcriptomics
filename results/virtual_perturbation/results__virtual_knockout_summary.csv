@@ -1,0 +1,5 @@
+"compartment","target","cells","genes","target_detected_cells","significant_responses_FDR05","top_response","top_FDR","runtime_minutes"
+"IPF_Macrophages","S100A8",1200,982,715,34,"GPNMB",3.23546623134966e-13,0.275822567939758
+"IPF_Epithelial","LCN2",1193,991,601,2,"SCGB3A1",5.09421839190276e-143,0.216081317265828
+"IPF_Epithelial","ACSL4",1193,991,295,2,"SCGB3A1",6.96630616165282e-146,0.212194232145945
+"IPF_Fibroblast","LIFR",695,987,109,30,"AC090498.1",6.65268904035524e-18,0.236224249998728

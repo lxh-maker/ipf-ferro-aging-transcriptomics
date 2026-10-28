@@ -1,0 +1,129 @@
+donor,module,n_cells,median_top_quartile_pseudotime
+010I,Resident/alveolar,315,0.033622827
+010I,S100A8 transitional,315,0.66265863
+010I,Lysosome/lipid/iron,315,0.057686754
+010I,SPP1 effector,315,0.19544397
+021I,Resident/alveolar,400,0.031551357
+021I,S100A8 transitional,400,0.63780326
+021I,Lysosome/lipid/iron,400,0.04358548
+021I,SPP1 effector,400,0.08124067
+022I,Resident/alveolar,400,0.029388279
+022I,S100A8 transitional,400,0.65032375
+022I,Lysosome/lipid/iron,400,0.06063897
+022I,SPP1 effector,400,0.081152655
+025I,Resident/alveolar,250,0.020539349
+025I,S100A8 transitional,250,0.56457067
+025I,Lysosome/lipid/iron,250,0.038327977
+025I,SPP1 effector,250,0.11803099
+034I,Resident/alveolar,196,0.19663306
+034I,S100A8 transitional,196,0.64745694
+034I,Lysosome/lipid/iron,196,0.28241608
+034I,SPP1 effector,196,0.29846257
+040I,Resident/alveolar,326,0.027026694
+040I,S100A8 transitional,326,0.6491996
+040I,Lysosome/lipid/iron,326,0.058991417
+040I,SPP1 effector,326,0.18105787
+041I,Resident/alveolar,361,0.0361559
+041I,S100A8 transitional,361,0.65060186
+041I,Lysosome/lipid/iron,361,0.22814816
+041I,SPP1 effector,361,0.30979562
+051I,Resident/alveolar,275,0.03498893
+051I,S100A8 transitional,275,0.6491664
+051I,Lysosome/lipid/iron,275,0.18174496
+051I,SPP1 effector,275,0.27456966
+053I,Resident/alveolar,306,0.02829623
+053I,S100A8 transitional,306,0.6113639
+053I,Lysosome/lipid/iron,306,0.04257228
+053I,SPP1 effector,306,0.086263075
+063I,Resident/alveolar,248,0.028403018
+063I,S100A8 transitional,248,0.2544098
+063I,Lysosome/lipid/iron,248,0.068131715
+063I,SPP1 effector,248,0.22277597
+123I,Resident/alveolar,321,0.031295102
+123I,S100A8 transitional,321,0.65089256
+123I,Lysosome/lipid/iron,321,0.21672028
+123I,SPP1 effector,321,0.26032966
+135I,Resident/alveolar,395,0.03404174
+135I,S100A8 transitional,395,0.6541724
+135I,Lysosome/lipid/iron,395,0.0629387
+135I,SPP1 effector,395,0.1969763
+138I,Resident/alveolar,235,0.19985941
+138I,S100A8 transitional,235,0.6599401
+138I,Lysosome/lipid/iron,235,0.24865769
+138I,SPP1 effector,235,0.27973086
+145I,Resident/alveolar,400,0.034963522
+145I,S100A8 transitional,400,0.65385723
+145I,Lysosome/lipid/iron,400,0.064095005
+145I,SPP1 effector,400,0.13433631
+157I,Resident/alveolar,388,0.038451374
+157I,S100A8 transitional,388,0.65325403
+157I,Lysosome/lipid/iron,388,0.19254991
+157I,SPP1 effector,388,0.29815504
+158I,Resident/alveolar,395,0.035019465
+158I,S100A8 transitional,395,0.6548509
+158I,Lysosome/lipid/iron,395,0.055041693
+158I,SPP1 effector,395,0.14530665
+166I,Resident/alveolar,388,0.038140375
+166I,S100A8 transitional,388,0.6662794
+166I,Lysosome/lipid/iron,388,0.07955106
+166I,SPP1 effector,388,0.13919057
+174I,Resident/alveolar,363,0.032745957
+174I,S100A8 transitional,363,0.6595386
+174I,Lysosome/lipid/iron,363,0.062909216
+174I,SPP1 effector,363,0.2026848
+177I,Resident/alveolar,400,0.031914335
+177I,S100A8 transitional,400,0.6565587
+177I,Lysosome/lipid/iron,400,0.067127734
+177I,SPP1 effector,400,0.18253674
+179I,Resident/alveolar,335,0.040129773
+179I,S100A8 transitional,335,0.6536871
+179I,Lysosome/lipid/iron,335,0.0887527
+179I,SPP1 effector,335,0.20890859
+209I,Resident/alveolar,322,0.027010785
+209I,S100A8 transitional,322,0.6553527
+209I,Lysosome/lipid/iron,322,0.09475039
+209I,SPP1 effector,322,0.23981793
+210I,Resident/alveolar,292,0.028557425
+210I,S100A8 transitional,292,0.620695
+210I,Lysosome/lipid/iron,292,0.096691266
+210I,SPP1 effector,292,0.34650108
+212I,Resident/alveolar,307,0.024507798
+212I,S100A8 transitional,307,0.6493426
+212I,Lysosome/lipid/iron,307,0.15627328
+212I,SPP1 effector,307,0.32972094
+214I,Resident/alveolar,132,0.11904562
+214I,S100A8 transitional,132,0.44693363
+214I,Lysosome/lipid/iron,132,0.27401868
+214I,SPP1 effector,132,0.3580882
+221I,Resident/alveolar,400,0.04088687
+221I,S100A8 transitional,400,0.6570252
+221I,Lysosome/lipid/iron,400,0.12614182
+221I,SPP1 effector,400,0.26000032
+222I,Resident/alveolar,400,0.03679388
+222I,S100A8 transitional,400,0.65882295
+222I,Lysosome/lipid/iron,400,0.12253526
+222I,SPP1 effector,400,0.28069347
+225I,Resident/alveolar,400,0.035502493
+225I,S100A8 transitional,400,0.65685713
+225I,Lysosome/lipid/iron,400,0.04744362
+225I,SPP1 effector,400,0.110424146
+228I,Resident/alveolar,247,0.020924635
+228I,S100A8 transitional,247,0.6497532
+228I,Lysosome/lipid/iron,247,0.040195726
+228I,SPP1 effector,247,0.054953523
+29I,Resident/alveolar,264,0.025503296
+29I,S100A8 transitional,264,0.64745617
+29I,Lysosome/lipid/iron,264,0.19740772
+29I,SPP1 effector,264,0.28303212
+47I,Resident/alveolar,276,0.022483317
+47I,S100A8 transitional,276,0.6103348
+47I,Lysosome/lipid/iron,276,0.09842448
+47I,SPP1 effector,276,0.2511882
+49I,Resident/alveolar,350,0.031176835
+49I,S100A8 transitional,350,0.6450292
+49I,Lysosome/lipid/iron,350,0.046314754
+49I,SPP1 effector,350,0.10418652
+59I,Resident/alveolar,215,0.028834846
+59I,S100A8 transitional,215,0.6100516
+59I,Lysosome/lipid/iron,215,0.25339648
+59I,SPP1 effector,215,0.30057058

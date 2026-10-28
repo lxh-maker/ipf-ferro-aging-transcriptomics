@@ -1,0 +1,4 @@
+left,right,n_patients,median_right_minus_left,n_patients_right_later,wilcoxon_statistic,p_value,FDR_BH
+Resident/alveolar,S100A8 transitional,32,0.61751604,32,0.0,4.656613e-10,4.656612873077393e-10
+S100A8 transitional,Lysosome/lipid/iron,32,-0.548445,0,0.0,4.656613e-10,4.656612873077393e-10
+Lysosome/lipid/iron,SPP1 effector,32,0.08794467,32,0.0,4.656613e-10,4.656612873077393e-10

@@ -1,0 +1,12 @@
+{
+  "friedman_statistic": 21.302520751953125,
+  "friedman_p": 9.109314123634249e-05,
+  "n_donors_complete_order": 4,
+  "n_donors_total": 12,
+  "complete_order_donors": [
+    "TILD001",
+    "VUILD60",
+    "VUILD64",
+    "VUILD65"
+  ]
+}

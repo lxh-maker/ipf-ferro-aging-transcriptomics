@@ -1,0 +1,14 @@
+{
+  "dataset": "E-MTAB-14121 / S-BSST1410",
+  "source_matrix": "https://ftp.ebi.ac.uk/biostudies/fire/E-MTAB-/121/E-MTAB-14121",
+  "source_cell2location": "https://ftp.ebi.ac.uk/biostudies/fire/S-BSST/410/S-BSST1410",
+  "n_sections": 25,
+  "n_spots": 101907,
+  "n_ipf_donors": 4,
+  "n_control_donors": 4,
+  "representative_B3_section": "V19S23-092-D1",
+  "cell2location_zip_md5": "03a0baaf460ba7ff2c1940b42536463e",
+  "analysis_seed": 20261027,
+  "permutations_per_section_test": 200,
+  "interpretation_limit": "Spatial association and deconvolution do not establish ligand-target causality."
+}

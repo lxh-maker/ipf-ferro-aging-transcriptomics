@@ -1,0 +1,65 @@
+donor,disease,severity,left,right,partial_spearman
+HC_1,Control,0,Lysosome/lipid/iron,SPP1 effector,0.12548716852904596
+HC_1,Control,0,Resident/alveolar,S100A8 transitional,0.05041108817075427
+HC_1,Control,0,S100A8 transitional,Lysosome/lipid/iron,0.0620898652043603
+HC_1,Control,0,S100A8 transitional,SPP1 effector,0.0542484154127564
+HC_2,Control,0,Lysosome/lipid/iron,SPP1 effector,0.16863696119646396
+HC_2,Control,0,Resident/alveolar,S100A8 transitional,0.11897637254939313
+HC_2,Control,0,S100A8 transitional,Lysosome/lipid/iron,0.09780107482482088
+HC_2,Control,0,S100A8 transitional,SPP1 effector,0.0847722060580434
+HC_3,Control,0,Lysosome/lipid/iron,SPP1 effector,0.1432410413080079
+HC_3,Control,0,Resident/alveolar,S100A8 transitional,0.11840224867650123
+HC_3,Control,0,S100A8 transitional,Lysosome/lipid/iron,0.044051277707029074
+HC_3,Control,0,S100A8 transitional,SPP1 effector,0.07511789473654235
+HC_4,Control,0,Lysosome/lipid/iron,SPP1 effector,0.15111626862678715
+HC_4,Control,0,Resident/alveolar,S100A8 transitional,0.12872261790132902
+HC_4,Control,0,S100A8 transitional,Lysosome/lipid/iron,0.14461318001165502
+HC_4,Control,0,S100A8 transitional,SPP1 effector,0.12347810745328204
+IPF_1,IPF,1,Lysosome/lipid/iron,SPP1 effector,0.15391710311632217
+IPF_1,IPF,1,Resident/alveolar,S100A8 transitional,0.08501512792948356
+IPF_1,IPF,1,S100A8 transitional,Lysosome/lipid/iron,0.048668904972805946
+IPF_1,IPF,1,S100A8 transitional,SPP1 effector,0.054973837065751256
+IPF_1,IPF,2,Lysosome/lipid/iron,SPP1 effector,0.24468638460645528
+IPF_1,IPF,2,Resident/alveolar,S100A8 transitional,0.06540097223771241
+IPF_1,IPF,2,S100A8 transitional,Lysosome/lipid/iron,0.12162130361085595
+IPF_1,IPF,2,S100A8 transitional,SPP1 effector,0.08118951346689326
+IPF_1,IPF,3,Lysosome/lipid/iron,SPP1 effector,0.31674013969947284
+IPF_1,IPF,3,Resident/alveolar,S100A8 transitional,0.01776869372593674
+IPF_1,IPF,3,S100A8 transitional,Lysosome/lipid/iron,-0.02178735351674505
+IPF_1,IPF,3,S100A8 transitional,SPP1 effector,-0.02618742866045172
+IPF_2,IPF,1,Lysosome/lipid/iron,SPP1 effector,0.28088578666505915
+IPF_2,IPF,1,Resident/alveolar,S100A8 transitional,0.011198791656382656
+IPF_2,IPF,1,S100A8 transitional,Lysosome/lipid/iron,0.014844773478281465
+IPF_2,IPF,1,S100A8 transitional,SPP1 effector,0.08393021493268564
+IPF_2,IPF,2,Lysosome/lipid/iron,SPP1 effector,0.2681147409533202
+IPF_2,IPF,2,Resident/alveolar,S100A8 transitional,0.06968156469726743
+IPF_2,IPF,2,S100A8 transitional,Lysosome/lipid/iron,0.0640974167352273
+IPF_2,IPF,2,S100A8 transitional,SPP1 effector,0.03363901191541896
+IPF_2,IPF,3,Lysosome/lipid/iron,SPP1 effector,0.40555916726996644
+IPF_2,IPF,3,Resident/alveolar,S100A8 transitional,0.10923098492630229
+IPF_2,IPF,3,S100A8 transitional,Lysosome/lipid/iron,0.24879835343483386
+IPF_2,IPF,3,S100A8 transitional,SPP1 effector,0.21571373739466557
+IPF_3,IPF,1,Lysosome/lipid/iron,SPP1 effector,0.27139760753325964
+IPF_3,IPF,1,Resident/alveolar,S100A8 transitional,0.17297008818632098
+IPF_3,IPF,1,S100A8 transitional,Lysosome/lipid/iron,0.15654173831177798
+IPF_3,IPF,1,S100A8 transitional,SPP1 effector,0.1240713035393571
+IPF_3,IPF,2,Lysosome/lipid/iron,SPP1 effector,0.22111724322924575
+IPF_3,IPF,2,Resident/alveolar,S100A8 transitional,0.16028526681922767
+IPF_3,IPF,2,S100A8 transitional,Lysosome/lipid/iron,0.06248022856715743
+IPF_3,IPF,2,S100A8 transitional,SPP1 effector,0.12518309278988615
+IPF_3,IPF,3,Lysosome/lipid/iron,SPP1 effector,0.30181028408757665
+IPF_3,IPF,3,Resident/alveolar,S100A8 transitional,0.08110956683024946
+IPF_3,IPF,3,S100A8 transitional,Lysosome/lipid/iron,0.1222362499530576
+IPF_3,IPF,3,S100A8 transitional,SPP1 effector,0.12002968681495543
+IPF_4,IPF,1,Lysosome/lipid/iron,SPP1 effector,0.20269994709053474
+IPF_4,IPF,1,Resident/alveolar,S100A8 transitional,0.1649323539774466
+IPF_4,IPF,1,S100A8 transitional,Lysosome/lipid/iron,0.19372251260668427
+IPF_4,IPF,1,S100A8 transitional,SPP1 effector,0.10367607863305435
+IPF_4,IPF,2,Lysosome/lipid/iron,SPP1 effector,0.172146535788575
+IPF_4,IPF,2,Resident/alveolar,S100A8 transitional,0.1519610876816758
+IPF_4,IPF,2,S100A8 transitional,Lysosome/lipid/iron,0.15916531825088645
+IPF_4,IPF,2,S100A8 transitional,SPP1 effector,0.08665103222754973
+IPF_4,IPF,3,Lysosome/lipid/iron,SPP1 effector,0.25249506317457643
+IPF_4,IPF,3,Resident/alveolar,S100A8 transitional,0.11935488925176246
+IPF_4,IPF,3,S100A8 transitional,Lysosome/lipid/iron,-0.08170266026723809
+IPF_4,IPF,3,S100A8 transitional,SPP1 effector,0.003404018445125936
